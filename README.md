@@ -22,4 +22,4 @@ Screenshot
 
 ## Usage
 
-[Link to deployed application](https://skronkie.github.io/Code-refactor/)
+[Link to deployed application](https://skronkie.github.io/code-refactor/)
